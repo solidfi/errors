@@ -1,8 +1,8 @@
 [
  {
     "language": "en",
-    "key": "EC_RECON_TRANSACTION_NOT_CAPTURED",
+    "key": "ERROR_CODE_RECON_TRANSACTION_NOT_CAPTURED",
     "value": "transaction is not captured at solid",
     "httpStatusCode":400
-  } 
+  }
 ]
