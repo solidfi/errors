@@ -4,5 +4,23 @@
     "key": "ERROR_CODE_RECON_TRANSACTION_NOT_CAPTURED",
     "value": "transaction is not captured at solid",
     "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_INVALID_EMAIL",
+    "value": "email is invalid",
+    "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_MAX_ALLOWED_LENGTH_EXCEEDED",
+    "value": "",
+    "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_INVALID_FIELD",
+    "value": "",
+    "httpStatusCode":400
   }
 ]
