@@ -14,7 +14,7 @@
   {
     "language": "en",
     "key": "ERROR_CODE_MAX_ALLOWED_LENGTH_EXCEEDED",
-    "value": "maximum lenght exceeded",
+    "value": "maximum length exceeded",
     "httpStatusCode":400
   },
   {
