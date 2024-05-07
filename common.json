@@ -14,13 +14,13 @@
   {
     "language": "en",
     "key": "ERROR_CODE_MAX_ALLOWED_LENGTH_EXCEEDED",
-    "value": "",
+    "value": "maximum lenght exceeded",
     "httpStatusCode":400
   },
   {
     "language": "en",
     "key": "ERROR_CODE_INVALID_FIELD",
-    "value": "",
+    "value": "field is invalid",
     "httpStatusCode":400
   }
 ]
