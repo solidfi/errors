@@ -1,3 +1,8 @@
-{
-  
-}
+[
+  {
+    "language": "en",
+    "key": "ERROR_CODE_ACCOUNT_CREATION_NOT_ALLOWED",
+    "value": "account creation is not allowed",
+    "httpStatusCode": 400
+  }
+]
