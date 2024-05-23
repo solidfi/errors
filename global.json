@@ -1,8 +1,8 @@
 [
  {
     "language": "en",
-    "key": "ERROR_CODE_RECON_TRANSACTION_NOT_CAPTURED",
-    "value": "transaction is not captured at solid",
-    "httpStatusCode":400
+    "key": "ERROR_CODE_AUTH_FORBIDDEN",
+    "value": "unauthorised",
+    "httpStatusCode":401
   }
 ]
