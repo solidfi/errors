@@ -4,5 +4,11 @@
     "key": "ERROR_CODE_AUTH_FORBIDDEN",
     "value": "unauthorised",
     "httpStatusCode":401
-  }
+  },
+ {
+    "language": "en",
+    "key": "ERROR_CODE_AUTH_FORBIDDEN",
+    "value": "unauthorised",
+    "httpStatusCode":401
+  },
 ]
