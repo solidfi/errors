@@ -7,8 +7,20 @@
   },
  {
     "language": "en",
-    "key": "ERROR_CODE_AUTH_FORBIDDEN",
-    "value": "unauthorised",
-    "httpStatusCode":401
+    "key": "ERROR_CODE_RESOURCE_NOT_FOUND",
+    "value": "resource not found",
+    "httpStatusCode":404
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_RESOURCE_ALREADY_EXIST",
+    "value": "resource already exists",
+    "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_INDEX_NOT_PRESENT_ON_FIELD",
+    "value": "index missing",
+    "httpStatusCode":400
   }
 ]
