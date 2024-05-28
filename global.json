@@ -22,5 +22,11 @@
     "key": "ERROR_CODE_INDEX_NOT_PRESENT_ON_FIELD",
     "value": "index missing",
     "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_UNAUTHORIZED",
+    "value": "unauthorised",
+    "httpStatusCode":401
   }
 ]
