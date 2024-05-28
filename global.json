@@ -28,5 +28,11 @@
     "key": "ERROR_CODE_UNAUTHORIZED",
     "value": "unauthorised",
     "httpStatusCode":401
+  },
+ {
+    "language": "en",
+    "key": "ERROR_CODE_INVALID_FIELD",
+    "value": "invalid field",
+    "httpStatusCode":400
   }
 ]
