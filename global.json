@@ -3,7 +3,7 @@
     "language": "en",
     "key": "ERROR_CODE_AUTH_FORBIDDEN",
     "value": "unauthorised",
-    "httpStatusCode":401
+    "httpStatusCode":403
   },
  {
     "language": "en",
@@ -33,6 +33,12 @@
     "language": "en",
     "key": "ERROR_CODE_INVALID_FIELD",
     "value": "invalid field",
+    "httpStatusCode":400
+  },
+ {
+    "language": "en",
+    "key": "ERROR_CODE_REQUIRED_FIELD_MISSING",
+    "value": "required field is missing",
     "httpStatusCode":400
   }
 ]
