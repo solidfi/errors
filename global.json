@@ -1,11 +1,11 @@
 [
- {
+  {
     "language": "en",
     "key": "ERROR_CODE_AUTH_FORBIDDEN",
     "value": "unauthorised",
     "httpStatusCode":403
   },
- {
+  {
     "language": "en",
     "key": "ERROR_CODE_RESOURCE_NOT_FOUND",
     "value": "resource not found",
@@ -39,6 +39,60 @@
     "language": "en",
     "key": "ERROR_CODE_REQUIRED_FIELD_MISSING",
     "value": "required field is missing",
+    "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_INVALID_REQUEST_BODY",
+    "value": "invalid request body",
+    "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_MAX_ALLOWED_LENGTH_EXCEEDED",
+    "value": "max allowed length for field exceeded",
+    "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_MIN_ALLOWED_LENGTH_NOT_MET",
+    "value": "field min allowed length not met",
+    "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_INVALID_ID",
+    "value": "invalid id",
+    "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_INVALID_PHONE",
+    "value": "invalid phone",
+    "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_INVALID_EMAIL",
+    "value": "invalid email",
+    "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_INVALID_WEBSITE",
+    "value": "invalid website",
+    "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_INVALID_AMOUNT",
+    "value": "invalid amount",
+    "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_INVALID_BILLING_ADDRESS",
+    "value": "invalid address",
     "httpStatusCode":400
   }
 ]
