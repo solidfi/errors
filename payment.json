@@ -10,5 +10,11 @@
     "key": "ERROR_CODE_CLIENT_NOT_ACTIVE",
     "value": "client status is not active",
     "httpStatusCode": 400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_ACCOUNT_STATUS_NOT_OPEN",
+    "value": "account status is not open",
+    "httpStatusCode": 400
   }
 ]
