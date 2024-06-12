@@ -16,5 +16,11 @@
     "key": "ERROR_CODE_ACCOUNT_STATUS_NOT_OPEN",
     "value": "account status is not open",
     "httpStatusCode": 400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_INSUFFICIENT_BALANCE",
+    "value": "insufficient balance",
+    "httpStatusCode": 400
   }
 ]
