@@ -94,5 +94,47 @@
     "key": "ERROR_CODE_INVALID_BILLING_ADDRESS",
     "value": "invalid address",
     "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_INVALID_SSN",
+    "value": "invalid ssn",
+    "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_INVALID_PASSPORT",
+    "value": "invalid passport",
+    "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_INVALID_ARGUMENT",
+    "value": "invalid argument",
+    "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_INVALID_NUMBER",
+    "value": "invalid number",
+    "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_INVALID_ID_TYPE",
+    "value": "invalid id type",
+    "httpStatusCode": 400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_ADDRESS_INVALID_COUNTRY",
+    "value": "invalid country",
+    "httpStatusCode": 400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_ADDRESS_INVALID_POSTAL_CODE",
+    "value": "invalid postal code",
+    "httpStatusCode": 400
   }
 ]
