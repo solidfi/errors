@@ -22,5 +22,11 @@
     "key": "ERROR_CODE_INSUFFICIENT_BALANCE",
     "value": "insufficient balance",
     "httpStatusCode": 400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_TRANSACTION_RECONCILED",
+    "value": "master_account transaction already reconciled",
+    "httpStatusCode": 400 
   }
 ]
