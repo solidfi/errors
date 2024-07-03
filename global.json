@@ -2,7 +2,7 @@
   {
     "language": "en",
     "key": "ERROR_CODE_AUTH_FORBIDDEN",
-    "value": "unauthorised",
+    "value": "client_id is invalid",
     "httpStatusCode":403
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "language": "en",
-    "key": "ERROR_CODE_INVALID_PHONE",
-    "value": "invalid phone",
-    "httpStatusCode":400
+    "key": "ERROR_CODE_DB_ERROR",
+    "value": "An unexpected database error occurred. Please try again later.",
+    "httpStatusCode":500
   },
   {
     "language": "en",
