@@ -32,7 +32,7 @@
  {
     "language": "en",
     "key": "ERROR_CODE_INVALID_FIELD",
-    "value": "invalid field",
+    "value": "field is invalid",
     "httpStatusCode":400
   },
  {
@@ -44,7 +44,7 @@
   {
     "language": "en",
     "key": "ERROR_CODE_INVALID_REQUEST_BODY",
-    "value": "invalid request body",
+    "value": "request body is invalid",
     "httpStatusCode":400
   },
   {
@@ -62,7 +62,7 @@
   {
     "language": "en",
     "key": "ERROR_CODE_INVALID_ID",
-    "value": "invalid id",
+    "value": "id is invalid",
     "httpStatusCode":400
   },
   {
@@ -74,37 +74,37 @@
   {
     "language": "en",
     "key": "ERROR_CODE_INVALID_EMAIL",
-    "value": "invalid email",
+    "value": "email is invalid",
     "httpStatusCode":400
   },
   {
     "language": "en",
     "key": "ERROR_CODE_INVALID_WEBSITE",
-    "value": "invalid website",
+    "value": "website is invalid",
     "httpStatusCode":400
   },
   {
     "language": "en",
     "key": "ERROR_CODE_INVALID_AMOUNT",
-    "value": "invalid amount",
+    "value": "amount is invalid",
     "httpStatusCode":400
   },
   {
     "language": "en",
     "key": "ERROR_CODE_INVALID_BILLING_ADDRESS",
-    "value": "invalid address",
+    "value": "address is invalid",
     "httpStatusCode":400
   },
   {
     "language": "en",
     "key": "ERROR_CODE_INVALID_SSN",
-    "value": "invalid ssn",
+    "value": "ssn is invalid",
     "httpStatusCode":400
   },
   {
     "language": "en",
     "key": "ERROR_CODE_INVALID_PASSPORT",
-    "value": "invalid passport",
+    "value": "passport is invalid",
     "httpStatusCode":400
   },
   {
@@ -116,25 +116,25 @@
   {
     "language": "en",
     "key": "ERROR_CODE_INVALID_NUMBER",
-    "value": "invalid number",
+    "value": "number is invalid",
     "httpStatusCode":400
   },
   {
     "language": "en",
     "key": "ERROR_CODE_INVALID_ID_TYPE",
-    "value": "invalid id type",
+    "value": "id type is invalid",
     "httpStatusCode": 400
   },
   {
     "language": "en",
     "key": "ERROR_CODE_ADDRESS_INVALID_COUNTRY",
-    "value": "invalid country",
+    "value": "country is invalid",
     "httpStatusCode": 400
   },
   {
     "language": "en",
     "key": "ERROR_CODE_ADDRESS_INVALID_POSTAL_CODE",
-    "value": "invalid postal code",
+    "value": "postal code is invalid",
     "httpStatusCode": 400
   }
 ]
