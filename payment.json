@@ -28,5 +28,29 @@
     "key": "ERROR_CODE_TRANSACTION_RECONCILED",
     "value": "master_account transaction already reconciled",
     "httpStatusCode": 400 
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_TRANSFER_DAILY_LIMIT_EXCEEDED",
+    "value": "daily limit exceeded",
+    "httpStatusCode": 400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_TRANSFER_MONTHLY_LIMIT_EXCEEDED",
+    "value": "monthly limit exceeded",
+    "httpStatusCode": 400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_HOLD_BALANCE_ERROR",
+    "value": "hold balance error",
+    "httpStatusCode": 400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_REDIS_ERROR",
+    "value": "An unexpected redis error occurred. Please try again later.",
+    "httpStatusCode": 500
   }
 ]
