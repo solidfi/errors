@@ -52,5 +52,29 @@
     "key": "ERROR_CODE_REDIS_ERROR",
     "value": "An unexpected redis error occurred. Please try again later.",
     "httpStatusCode": 500
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_IDEMPOTENCY_ERROR",
+    "value": "An unexpected idempotency error occurred. Please try again later.",
+    "httpStatusCode": 500
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_IDEMPOTENCY_BAD_REQUEST",
+    "value": "payload is invalid for idempotency key",
+    "httpStatusCode": 400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_IDEMPOTENCY_KEY_LENGTH_EXCEEDED",
+    "value": "idempotency key length exceeds 255 characters",
+    "httpStatusCode": 400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_IDEMPOTENCY_KEY_CONFLICT",
+    "value": "idempotency key conflicts",
+    "httpStatusCode": 409
   }
 ]
