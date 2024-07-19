@@ -76,5 +76,5 @@
     "key": "ERROR_CODE_INVALID_ARGUMENT",
     "value": "invalid argument",
     "httpStatusCode":400
-  },
+  }
 ]
