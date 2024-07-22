@@ -61,27 +61,9 @@
   },
   {
     "language": "en",
-    "key": "ERROR_CODE_INVALID_ID",
-    "value": "id is invalid",
-    "httpStatusCode":400
-  },
-  {
-    "language": "en",
     "key": "ERROR_CODE_DB_ERROR",
     "value": "An unexpected database error occurred. Please try again later.",
     "httpStatusCode":500
-  },
-  {
-    "language": "en",
-    "key": "ERROR_CODE_INVALID_EMAIL",
-    "value": "email is invalid",
-    "httpStatusCode":400
-  },
-  {
-    "language": "en",
-    "key": "ERROR_CODE_INVALID_WEBSITE",
-    "value": "website is invalid",
-    "httpStatusCode":400
   },
   {
     "language": "en",
@@ -91,50 +73,8 @@
   },
   {
     "language": "en",
-    "key": "ERROR_CODE_INVALID_BILLING_ADDRESS",
-    "value": "address is invalid",
-    "httpStatusCode":400
-  },
-  {
-    "language": "en",
-    "key": "ERROR_CODE_INVALID_SSN",
-    "value": "ssn is invalid",
-    "httpStatusCode":400
-  },
-  {
-    "language": "en",
-    "key": "ERROR_CODE_INVALID_PASSPORT",
-    "value": "passport is invalid",
-    "httpStatusCode":400
-  },
-  {
-    "language": "en",
     "key": "ERROR_CODE_INVALID_ARGUMENT",
     "value": "invalid argument",
     "httpStatusCode":400
-  },
-  {
-    "language": "en",
-    "key": "ERROR_CODE_INVALID_NUMBER",
-    "value": "number is invalid",
-    "httpStatusCode":400
-  },
-  {
-    "language": "en",
-    "key": "ERROR_CODE_INVALID_ID_TYPE",
-    "value": "id type is invalid",
-    "httpStatusCode": 400
-  },
-  {
-    "language": "en",
-    "key": "ERROR_CODE_ADDRESS_INVALID_COUNTRY",
-    "value": "country is invalid",
-    "httpStatusCode": 400
-  },
-  {
-    "language": "en",
-    "key": "ERROR_CODE_ADDRESS_INVALID_POSTAL_CODE",
-    "value": "postal code is invalid",
-    "httpStatusCode": 400
   }
 ]
