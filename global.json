@@ -76,5 +76,11 @@
     "key": "ERROR_CODE_INVALID_ARGUMENT",
     "value": "invalid argument",
     "httpStatusCode":400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_RESOURCE_UPDATE_NOT_ALLOWED",
+    "value": "resource update is not allowed",
+    "httpStatusCode":400
   }
 ]
