@@ -76,5 +76,11 @@
     "key": "ERROR_CODE_IDEMPOTENCY_KEY_CONFLICT",
     "value": "idempotency key conflicts",
     "httpStatusCode": 409
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_MISSING_REQUIRED_FILTER",
+    "value": "required missing filter value",
+    "httpStatusCode": 400
   }
 ]
