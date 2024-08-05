@@ -1,0 +1,86 @@
+[
+    {
+        "language": "en",
+        "key": "ERROR_CODE_CARD_ISSUANCE_PRODUCT_DISABLED",
+        "value": "card product is not enabled",
+        "httpStatusCode": 400
+    },
+    {
+        "language": "en",
+        "key": "ERROR_CODE_CARD_ISSUANCE_PRODUCT_LIMIT_EXCEEDED",
+        "value": "Card product limit exceeded",
+        "httpStatusCode": 400
+    },
+    {
+        "language": "en",
+        "key": "ERROR_CODE_CARD_ISSUANCE_INVALID_THEME_FOR_PRODUCT",
+        "value": "Invalid theme or product, no card program config found",
+        "httpStatusCode": 400
+    },
+    {
+        "language": "en",
+        "key": "ERROR_CODE_INVALID_CARD_REPLACE_REASON",
+        "value": "Card is virtual, damaged replace reason not supported.",
+        "httpStatusCode": 400
+    },
+    {
+        "language": "en",
+        "key": "ERROR_CODE_CARD_UPDATE_NOT_ALLOWED",
+        "value": "No entries updated for previous card",
+        "httpStatusCode": 400
+    },
+    {
+        "language": "en",
+        "key": "ERROR_CODE_CARD_UPDATE_NOT_ALLOWED_FOR_STATUS",
+        "value": "Card <card_id> status cannot be updated, use activation endpoint instead.",
+        "httpStatusCode": 400
+    },
+    {
+        "language": "en",
+        "key": "ERROR_CODE_CARD_ACTIVATION_NOT_ALLOWED",
+        "value": "Card <card_id> is a virtual card and only a physical card can be activated.",
+        "httpStatusCode": 400
+    },
+    {
+        "language": "en",
+        "key": "ERROR_CODE_CARD_ACTIVATION_NOT_ALLOWED_FOR_STATUS",
+        "value": "Card <card_id> cannot be activated due to its current status.",
+        "httpStatusCode": 400
+    },
+    {
+        "language": "en",
+        "key": "ERROR_CODE_CARD_INCORRECT_DETAILS",
+        "value": "Card <card_id> cannot have its pin set due to incorrect expiry or last4.",
+        "httpStatusCode": 400
+    },
+    {
+        "language": "en",
+        "key": "ERROR_CODE_CARD_PROVISIONING_NOT_ALLOWED",
+        "value": "Card <card_id> cannot be provisioned due to its current status.",
+        "httpStatusCode": 400
+    },
+    {
+        "language": "en",
+        "key": "ERROR_CODE_CARD_SET_PIN_NOT_ALLOWED",
+        "value": "Card <card_id> cannot have its pin set due to its status.",
+        "httpStatusCode": 400
+    },
+    {
+        "language": "en",
+        "key": "ERROR_CODE_CARD_PROGRAM_DUPLICATE_THEME",
+        "value": "Duplicate theme for the product type",
+        "httpStatusCode": 400
+    },
+    {
+        "language": "en",
+        "key": "ERROR_CODE_CARD_PROGRAM_SUBBIN_ALREADY_USED",
+        "value": "transaction is not captured at solid",
+        "httpStatusCode": 400
+    },
+    {
+        "language": "en",
+        "key": "ERROR_CODE_CARD_PROGRAM_IMAGE_ALREADY_USED",
+        "value": "Duplicate card image id",
+        "httpStatusCode": 400
+    }
+]
