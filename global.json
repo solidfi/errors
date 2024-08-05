@@ -88,5 +88,11 @@
     "key": "ERROR_CODE_MISSING_REQUIRED_FILTER",
     "value": "required missing filter value",
     "httpStatusCode": 400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_INTERNAL_ERROR",
+    "value": "An unexpected database error occurred. Please try again later.",
+    "httpStatusCode": 500
   }
 ]
