@@ -19,7 +19,7 @@
     },
     {
         "language": "en",
-        "key": "ERROR_CODE_CARD_ISSUANCE_INVALID_CARDHOLDER_STATUS",
+        "key": "ERROR_CODE_CARD_ISSUANCE_CARDHOLDER_NOT_ACTIVE",
         "value": "Cardholder status is not activated.",
         "httpStatusCode": 400
     },
