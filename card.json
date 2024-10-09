@@ -19,6 +19,12 @@
     },
     {
         "language": "en",
+        "key": "ERROR_CODE_CARD_ISSUANCE_CARDHOLDER_NOT_ACTIVE",
+        "value": "Cardholder status is not activated.",
+        "httpStatusCode": 400
+    },
+    {
+        "language": "en",
         "key": "ERROR_CODE_INVALID_CARD_REPLACE_REASON",
         "value": "Card is virtual, damaged replace reason not supported.",
         "httpStatusCode": 400
