@@ -76,5 +76,11 @@
     "key": "ERROR_CODE_IDEMPOTENCY_KEY_CONFLICT",
     "value": "idempotency key conflicts",
     "httpStatusCode": 409
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_TRANSACTION_REVERSAL_NOT_ALLOWED",
+    "value": "transaction reversal is not allowed",
+    "httpStatusCode": 400
   }
 ]
