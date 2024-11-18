@@ -82,5 +82,17 @@
     "key": "ERROR_CODE_TRANSACTION_REVERSAL_NOT_ALLOWED",
     "value": "transaction reversal is not allowed",
     "httpStatusCode": 400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_SUB_ACCOUNT_HOLDER_STATUS_NOT_ACTIVE",
+    "value": "sub account holder should be activated to perform transaction.",
+    "httpStatusCode": 400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_MASTER_ACCOUNT_HOLDER_STATUS_NOT_ACTIVE",
+    "value": "master account holder should be activated to perform transaction.",
+    "httpStatusCode": 400
   }
 ]
