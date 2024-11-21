@@ -31,6 +31,12 @@
     },
     {
         "language": "en",
+        "key": "ERROR_CODE_CARD_REPLACEMENT_NOT_ALLOWED_FOR_STATUS",
+        "value": "Only card with activated/open status is supported for replacement",
+        "httpStatusCode": 400
+    },
+    {
+        "language": "en",
         "key": "ERROR_CODE_CARD_UPDATE_NOT_ALLOWED",
         "value": "No entries updated for previous card",
         "httpStatusCode": 400
