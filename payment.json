@@ -94,5 +94,11 @@
     "key": "ERROR_CODE_MASTER_ACCOUNT_HOLDER_STATUS_NOT_ACTIVE",
     "value": "master account holder should be activated to perform transaction.",
     "httpStatusCode": 400
+  },
+  {
+    "language": "en",
+    "key": "ERROR_CODE_FORM_FACTOR_NOT_ENABLED",
+    "value": "form factor not enabled",
+    "httpStatusCode": 400
   }
 ]
