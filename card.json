@@ -91,8 +91,8 @@
     },
     {
         "language": "en",
-        "key": "ERROR_CODE_CARD_REPLACE_INTERVAL_VIOLATION",
-        "value": "Card replace not allowed within 7 days of previous replace. Previous replace time: <previous_replace_time>.",
+        "key": "ERROR_CODE_CARD_REPLACEMENT_INTERVAL_VIOLATION",
+        "value": "Card replacement not allowed within 7 days of previous replacement. Previous replacement time: <previous_replacement_time>.",
         "httpStatusCode": 400
     }
 ]
