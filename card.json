@@ -94,5 +94,11 @@
         "key": "ERROR_CODE_CARD_PROGRAM_IMAGE_ALREADY_USED",
         "value": "Duplicate card image id",
         "httpStatusCode": 400
+    },
+    {
+        "language": "en",
+        "key": "ERROR_CODE_CARD_REPLACEMENT_INTERVAL_VIOLATION",
+        "value": "Card replacement not allowed within 7 days of previous replacement. Previous replacement time: <previous_replacement_time>.",
+        "httpStatusCode": 400
     }
 ]
